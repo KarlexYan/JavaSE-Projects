@@ -159,7 +159,7 @@ public class GameJFrame extends JFrame implements KeyListener, ActionListener {
         this.setLocationRelativeTo(null);
         // 设置关闭模式
         this.setDefaultCloseOperation(WindowConstants.EXIT_ON_CLOSE);
-        // 取消默认的居中位置
+        // 设置默认的布局
         this.setLayout(null);
         // 给整个界面添加键盘监听事件
         this.addKeyListener(this);

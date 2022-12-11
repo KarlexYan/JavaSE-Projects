@@ -1,3 +1,4 @@
+import com.KarlexYan.ui.GameJFrame;
 import com.KarlexYan.ui.LoginJFrame;
 
 public class App {
